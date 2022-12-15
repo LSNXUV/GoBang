@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoBang", "GoBang\GoBang.vcxproj", "{FEB24750-3464-420D-98F7-8780B64F77AB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "五子棋终结者", "五子棋终结者\五子棋终结者.vdproj", "{0E02FF74-5278-4C08-ABAE-76253BA26501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB24750-3464-420D-98F7-8780B64F77AB}.Debug|x64.ActiveCfg = Debug|x64
+		{FEB24750-3464-420D-98F7-8780B64F77AB}.Debug|x64.Build.0 = Debug|x64
+		{FEB24750-3464-420D-98F7-8780B64F77AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{FEB24750-3464-420D-98F7-8780B64F77AB}.Debug|x86.Build.0 = Debug|Win32
+		{FEB24750-3464-420D-98F7-8780B64F77AB}.Release|x64.ActiveCfg = Release|x64
+		{FEB24750-3464-420D-98F7-8780B64F77AB}.Release|x64.Build.0 = Release|x64
+		{FEB24750-3464-420D-98F7-8780B64F77AB}.Release|x86.ActiveCfg = Release|Win32
+		{FEB24750-3464-420D-98F7-8780B64F77AB}.Release|x86.Build.0 = Release|Win32
+		{0E02FF74-5278-4C08-ABAE-76253BA26501}.Debug|x64.ActiveCfg = Debug
+		{0E02FF74-5278-4C08-ABAE-76253BA26501}.Debug|x86.ActiveCfg = Debug
+		{0E02FF74-5278-4C08-ABAE-76253BA26501}.Release|x64.ActiveCfg = Release
+		{0E02FF74-5278-4C08-ABAE-76253BA26501}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7785D863-7940-485C-B1BC-F6040D974C3C}
+	EndGlobalSection
+EndGlobal
